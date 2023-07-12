@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190943895386",
+    "project_id": "test-c49f7",
+    "storage_bucket": "test-c49f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190943895386:android:4468f06492b7234dcbdd63",
+        "android_client_info": {
+          "package_name": "com.example.gamecubic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190943895386-mbcskdfpt7poo58j4ngp35h8dhl8u2jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Z3qZpdhy8kiDWGDHfwcuUILY0n5YC20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190943895386-mbcskdfpt7poo58j4ngp35h8dhl8u2jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
